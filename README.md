@@ -11,6 +11,14 @@ A Next.js-based web app that tracks user activity across five pages, even when o
 - ✅ Admin dashboard with charts and stats
 - ✅ Simple and clean UI
 
+## 🛠️ Technologies Used
+- Next.js – frontend framework
+- React Hooks – state and lifecycle management
+- IndexedDB (via localForage) – for storing offline events
+- Axios – for API calls
+- SWR – for data fetching in the dashboard
+- Custom BarChart (no external chart library) – to keep UI simple and lightweight
+
 ## 🗂️ Project Structure
 
 ```bash
