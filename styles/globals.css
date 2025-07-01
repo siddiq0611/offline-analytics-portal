@@ -1,0 +1,40 @@
+body {
+  color: white;
+  background: black;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+nav a {
+  margin: 0 10px;
+  color: #ffffff;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
+
+button {
+  background-color: white;
+  color: black;
+  padding: 10px 20px;
+  margin: 10px 0;
+}
+
+button:hover {
+  background-color: grey;
+}
+
+table {
+  margin-top: 20px;
+}
+
+th {
+  background-color: #000000;
+}
